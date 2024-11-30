@@ -3,7 +3,7 @@ git+https://github.com/Gorialis/jishaku.git@303921ddbbe3f0ff3f2d9c4017ffa7080561
 asyncpg==0.26.0
 rapidfuzz==2.4.2
 websockets==10.3
-humanize==4.2.3
+humanize==4.3.0
 Pillow==9.2.0
 python-dotenv==0.20.0
 python-dateutil~=2.8.2
